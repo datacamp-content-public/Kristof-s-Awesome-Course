@@ -1,6 +1,7 @@
 ---
 title: Test
 description: Test
+free_preview: true
 ---
 
 ## An exercise title written in sentence case
@@ -58,3 +59,16 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: bb2e07dc87
+xp: 50
+```
+
+`@projector_key`
+d001d061716ce2ecadbdb987f504b0df
