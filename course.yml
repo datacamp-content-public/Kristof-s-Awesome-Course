@@ -2,5 +2,3 @@ title: Kristof s Awesome Course
 description: A description of the course.
 programming_language: python
 from: 'python-base-prod:v1.0.2'
-datasets:
-  README.md: Read Me
