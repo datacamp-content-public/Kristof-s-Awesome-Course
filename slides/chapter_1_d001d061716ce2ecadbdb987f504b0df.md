@@ -11,6 +11,7 @@ key: "870280008c"
 ```
 
 `@lower_third`
+
 name: Name Surname
 title: Instructor
 
@@ -25,18 +26,29 @@ title: Instructor
 ```yaml
 type: "FullSlide"
 key: "9e96144da9"
+code_zoom: 80
 ```
 
 `@part1`
 ```python
-gjpqy
+# Import the modules
+import sys
+import random
+
+ans = True
+
+while ans:
+    question = raw_input("""Ask the magic 8 ball a 
+    						question: (press enter 
+                            to quit) """)
+    
+    answers = random.randint(1,8)
 ```
 
-```
-gjpqy
-```
-```r
-gjpqy
+********sdafsadfsaf****************************
+
+```out
+**_200___**
 ```
 
 

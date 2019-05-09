@@ -4,6 +4,19 @@ description: Test
 free_preview: true
 ---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: bb2e07dc87
+xp: 50
+```
+
+`@projector_key`
+d001d061716ce2ecadbdb987f504b0df
+
+---
+
 ## An exercise title written in sentence case
 
 ```yaml
@@ -65,10 +78,48 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 ## Insert exercise title here
 
 ```yaml
+type: NormalExercise
+key: 2f71f8677c
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
 type: VideoExercise
-key: bb2e07dc87
+key: 02d5290b96
 xp: 50
 ```
 
 `@projector_key`
-d001d061716ce2ecadbdb987f504b0df
+c8cd9316edb658146939a7cd1d72271a
